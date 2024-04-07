@@ -1,2 +1,4 @@
 # Tank-War
-A simple but fun games about battle of 2 tank from 2 different player
+Upload the file into "Scratch 3" application.
+
+Has some "bug" inside. May consider to fix it if requested.
